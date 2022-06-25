@@ -201,7 +201,7 @@
 196;Damage Report;JTAC;Request BDA
 197;Request BDA;JTAC;Request BDA
 198;Showstopper;JTAC;Unable to Comply
-199;Nicht m�glich;JTAC;Unable to Comply
+199;Nicht möglich;JTAC;Unable to Comply
 200;Was ist mein Ziel;JTAC;What is my Target
 201;Bremsklötze platzieren;Crew;Wheelchocks Place
 202;IP Inbound;JTAC;IP Inbound
@@ -266,7 +266,7 @@
 261;Pumpen;Flight;Pump
 262;Bodenstrom entfernen;Crew;Ground Power Off
 263;Negativ;Undefined;Negative
-264;Anflug auf Flugzeugtr�ger;ATC;Inbound for Carrier
+264;Anflug auf Flugzeugträger;ATC;Inbound for Carrier
 265;Verstnanden;Undefined;Copy
 266;Überfliegen Anflug;ATC;Approach Overhead
 267;Sehe dich in zehn;ATC;See You At Ten
@@ -330,7 +330,7 @@
 325;Mein Ziel;Flight;Engage My Target
 326;Marking Moms;ATC;Inbound for Carrier
 327;Briefing;AOCS;Read Mission Briefing
-328;Notizen l�schen;Kneeboard;Dictation Clear Notes
+328;Notizen löschen;Kneeboard;Dictation Clear Notes
 329;Diktieren starten;Kneeboard;Dictation Start
 330;Diktieren Ende;Kneeboard;Dictation Stop
 331;Dikitierne Korrektur;Kneeboard;Dictation Correction
@@ -351,18 +351,18 @@
 346;Schneefplug;RIO;LANTIRN QSNO
 347;Markierung Fokusieren;RIO;LANTIRN QDES
 348;Vorheriges Ziel;RIO;LANTIRN Previous Target
-349;N�chstes Ziel;RIO;LANTIRN Next Target
+349;Nächstes Ziel;RIO;LANTIRN Next Target
 350;Radar ein;RIO;Switch Radar Transmit
 351;Randar Standby;RIO;Switch Radar Standby
-352;Aufschaltung l�sen;RIO;Break Lock
+352;Aufschaltung lösen;RIO;Break Lock
 353;Schalte auf Direktaufschaltung;RIO;Toggle PDSTT/PSTT
-354;Vertikale Suche H�her;RIO;VSL High
+354;Vertikale Suche Höher;RIO;VSL High
 355;Vertikale Suche Tiefer;RIO;VSL Low
 356;Direktaufschaltung;RIO;STT Lock
 357;Forderer Kontakt direktaufschalten;RIO;STT Lock Contact Ahead
 358;Forderer Bereich direktaufschalten;RIO;STT Lock Bogey Ahead
 359;Forderer Freundlicher Kontakt direkt Aufschalten;RIO;STT Lock Friendly Ahead
-360;N�chster Kontakt STT Aufschalten;RIO;STT Lock First
+360;Nächster Kontakt STT Aufschalten;RIO;STT Lock First
 361;Direktaufschaltung Kontakt 1;RIO;STT Lock Target #1
 362;Direktaufschaltung Kontakt 2;RIO;STT Lock Target #2
 363;Direktaufschaltung Kontakt 3;RIO;STT Lock Target #3
@@ -385,8 +385,8 @@
 380;Suche Mitte rechts;RIO;Scan Azimuth Center Right
 381;Suche links;RIO;Scan Azimuth Left
 382;Suche rechts;RIO;Scan Azimuth Right
-383;Suche H�he;RIO;Scan Elevation
-384;Suche H�he automatisch;RIO;Scan Elevation Automatic
+383;Suche Höhe;RIO;Scan Elevation
+384;Suche Höhe automatisch;RIO;Scan Elevation Automatic
 385;Suche hoch;RIO;Scan Elevation High
 386;Suche niedrig;RIO;Scan Elevation Low
 387;Suche Ebene;RIO;Scan Elevation Level
@@ -418,16 +418,16 @@
 413;Aktiviere Streubombe;RIO;AG Select Mk20s
 414;Aktiviere Lasergelenkte Bomben;RIO;AG Select GBUs
 415;Select Lose;RIO;AG Select LUUs
-416;Aktiviere �bungsbombe;RIO;AG Select BDUs
-417;Aktiviere Radark�der;RIO;AG Select TALD
+416;Aktiviere Übungsbombe;RIO;AG Select BDUs
+417;Aktiviere Radarköder;RIO;AG Select TALD
 418;Angriffsmodus Ziel;RIO;AG Attack Mode Target
 419;Angriffsmodus Pilot;RIO;AG Attack Mode Pilot
 420;Einzelabwurf;RIO;Set Release Single
 421;Paarweise Abwurf;RIO;Set Release Pairs
-422;Z�nder Einstellung;RIO;Set Fuse
-423;Z�nder Einstellung Heck;RIO;Set Fuse Nose Tail
-424;Z�nder Einstellung Nase;RIO;Set Fuse Nose
-425;Z�nder sichern;RIO;Set Fuse Safe
+422;Zünder Einstellung;RIO;Set Fuse
+423;Zünder Einstellung Heck;RIO;Set Fuse Nose Tail
+424;Zünder Einstellung Nase;RIO;Set Fuse Nose
+425;Zünder sichern;RIO;Set Fuse Safe
 426;Abwurfmenge Intervall;RIO;Set Ripple Quantity
 427;Abwurfmenge Intervall 2;RIO;Set Ripple Quantity 2
 428;Bandit;Flight;Engage Bandits
@@ -454,16 +454,16 @@
 449;Abwurfdistanz Intervall  400;RIO;Set Ripple Distance 400
 450;Waffen abwerfen;RIO;Jettison Selected
 451;Tank abwerfen;RIO;Jettison Drop Tanks
-452;Wechsle auf Zielbeh�lter;RIO;Switch LANTIRN
-453;W�hle Aufh�ngung;RIO;Select Stations
-454;W�hle Aufh�ngung 1 8;RIO;Select Stations 1,8
-455;W�hle Aufh�ngung 2 7;RIO;Select Stations 2,7
-456;W�hle Aufh�ngung 3 4 5 6;RIO;Select Stations 3,4,5,6
-457;W�hle Aufh�ngung 3 6;RIO;Select Stations 3,6
-458;W�hle Aufh�ngung 4 5;RIO;Select Stations 4,5
+452;Wechsle auf Zielbehälter;RIO;Switch LANTIRN
+453;Wähle Aufhängung;RIO;Select Stations
+454;Wähle Aufhängung 1 8;RIO;Select Stations 1,8
+455;Wähle Aufhängung 2 7;RIO;Select Stations 2,7
+456;Wähle Aufhängung 3 4 5 6;RIO;Select Stations 3,4,5,6
+457;Wähle Aufhängung 3 6;RIO;Select Stations 3,6
+458;Wähle Aufhängung 4 5;RIO;Select Stations 4,5
 459;Abwurfmenge Intervall 16;RIO;Set Ripple Quantity 16
 460;Abwurfmenge Intervall 28;RIO;Set Ripple Quantity 28
-461;Radio �berwachen;RIO;AN/ARC-182 Use Guard
+461;Radio überwachen;RIO;AN/ARC-182 Use Guard
 462;Datenlink Modus;RIO;Datalink Mode
 463;Datenlink Preset;RIO;Datalink Preset
 464;Datenlink Host;RIO;Datalink Set Host
@@ -555,7 +555,7 @@
 550;Wirf dich raus;RIO;Ejection handle RIO only
 551;Breit zur Landung;RIO;Landing callouts allowed
 552;Kein Komentar;RIO;No landing callouts
-553;Zur�ck zur Arbeit;RIO;Jester resume
+553;Zurück zur Arbeit;RIO;Jester resume
 554;Warte;RIO;Jester suspend
 555;Aufwachen;RIO;Reset
 556;Link verbinden  Washington;RIO;DL Host Washington
@@ -570,7 +570,7 @@
 565;Schwenke auf Wegpunkt 1;RIO;LANTIRN Track Steerpoint 1
 566;Schwenke auf Wegpunkt 2;RIO;LANTIRN Track Steerpoint 2
 567;Schwenke auf Wegpunkt 3;RIO;LANTIRN Track Steerpoint 3
-568;Lantern zur�cksetzen;RIO;LANTIRN Reset
+568;Lantern zurücksetzen;RIO;LANTIRN Reset
 569;Track Fixed Point;RIO;LANTIRN Track FP
 570;Track IP;RIO;LANTIRN Track IP
 571;Track Surface Target;RIO;LANTIRN Track ST
@@ -608,8 +608,8 @@
 603;Rastersektor 6;RIO;Grid 6 Sectors
 604;Walkman einschalten;RIO;Play the Walkman
 605;Walkman ausschalten;RIO;Stop the Walkman
-606;N�chster Titel;RIO;Fast Forward
-607;Titel zur�ck;RIO;Rewind
+606;Nächster Titel;RIO;Fast Forward
+607;Titel zurück;RIO;Rewind
 608;Gegenmassnahmen  Modus;RIO;CMS Mode
 609;Aspect Switch Beam;RIO;Aspect Switch Beam
 610;Aspect Switch Nose;RIO;Aspect Switch Nose
@@ -621,15 +621,15 @@
 616;Fackel Modus Pilot;RIO;Flares Mode to Pilot
 617;Fackel Modus Normal;RIO;Flares Mode to Normal
 618;Fackel Modus Multi;RIO;Flares Mode to Multi
-619;D�ppel Programm;RIO;Chaff Program
-620;D�ppel Programm 1;RIO;Chaff Program 1 (RR 12)
-621;D�ppel Programm 2;RIO;Chaff Program 2 (RR 46)
-622;D�ppel Programm 3;RIO;Chaff Program 3 (RR 86)
-623;D�ppel Programm 4;RIO;Chaff Program 4 (20 44)
-624;D�ppel Programm 5;RIO;Chaff Program 5 (20 84)
-625;D�ppel Programm 6;RIO;Chaff Program 6 (40 44)
-626;D�ppel Programm 7;RIO;Chaff Program 7 (40 84)
-627;D�ppel Programm 8;RIO;Chaff Program 8 (R1 12)
+619;Düppel Programm;RIO;Chaff Program
+620;Düppel Programm 1;RIO;Chaff Program 1 (RR 12)
+621;Düppel Programm 2;RIO;Chaff Program 2 (RR 46)
+622;Düppel Programm 3;RIO;Chaff Program 3 (RR 86)
+623;Düppel Programm 4;RIO;Chaff Program 4 (20 44)
+624;Düppel Programm 5;RIO;Chaff Program 5 (20 84)
+625;Düppel Programm 6;RIO;Chaff Program 6 (40 44)
+626;Düppel Programm 7;RIO;Chaff Program 7 (40 84)
+627;Düppel Programm 8;RIO;Chaff Program 8 (R1 12)
 628;Display Flugzeuge;RIO;RWR Mode Airborne
 629;Display;RIO;RWR Display Type
 630;Display Flugabwehr;RIO;RWR Mode AAA
@@ -639,9 +639,9 @@
 634;Gegenmassnahmen Auswerfen;RIO;Dispense Order
 635;Jammer On;RIO;Jammer On
 636;Jammer Standby;RIO;Jammer Standby
-637;D�ppel Programm starten;RIO;Disp Order Chaff Program
-638;Ein D�ppel ausstossen;RIO;Disp Order Chaff Single
-639;D�ppel ausstossen;RIO;Disp Order Chaff Tight
+637;Düppel Programm starten;RIO;Disp Order Chaff Program
+638;Ein Düppel ausstossen;RIO;Disp Order Chaff Single
+639;Düppel ausstossen;RIO;Disp Order Chaff Tight
 640;Fackel Programm starten;RIO;Disp Order Flare Program
 641;Eine Fackel Ausstossen;RIO;Disp Order Flare Single
 642;Fackel ausstossen;RIO;Disp Order Flare Tight
@@ -714,7 +714,7 @@
 709;Wende rechts 10;Iceman;Turn Right 10
 710;Wende rechts 30;Iceman;Turn Right 30
 711;Wende rechts 45;Iceman;Turn Right 45
-712;�ndere Geschwindigkeit;Iceman;Change Speed
+712;Ändere Geschwindigkeit;Iceman;Change Speed
 713;Angreifer;Flight;Engage Bandits
 714;Fly to Destination;Iceman;Fly to Destination
 715;Orbit Destination;Iceman;Orbit Destination
